@@ -1,1 +1,6 @@
+<<<<<<< local
 boca es el mejor
+=======
+<h1> hola mundo </h1>
+boca juniors
+>>>>>>> other
